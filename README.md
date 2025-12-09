@@ -171,6 +171,11 @@ These timing parameters are measured from the transient output waveform using st
   <img src="https://github.com/user-attachments/assets/eab59e08-1d10-4d40-92ab-dd0041ddca7e" width="800">
 </p>
 
+| Load Capacitance | Dynamic Power |
+|:---------------:|:-------------:|
+| **0.5 pF**       | **81.48 µW**  |
+| **0.2 pF**       | **32.87 µW**  |
+
 ---
 
 ### 🧱 CMOS Inverter Layout
