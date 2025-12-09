@@ -209,6 +209,15 @@ Below are the two netlists used for LVS verification:
   <img src="https://github.com/user-attachments/assets/d000c80a-7d7e-4862-a835-7cbdda6bd311" width="550">
 </p>
 
+## 👤 About the Developer
+
+Designed and verified by **Subramanian T H**  
+ECE – VLSI Design Enthusiast  
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/subramanian-t-h/
+
+
+
 
 
 
