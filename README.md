@@ -10,14 +10,14 @@
 2. [Methodology](#methodology)
 3. [CMOS Inverter Schematic](#cmos-inverter-schematic)
 4. [CMOS Inverter Symbol](#cmos-inverter-symbol)
-5. [Testbench for DC and Transient Simulation](#testbench-for-dc-and-transient-simulation)
+5. [Testbench for DC and Transient Simulation](#testbench-for-dc--transient-simulation)
 6. [Simulation Results](#simulation-results)
    - [DC Transfer Characteristics](#dc-transfer-characteristics)
-     - [Voltage Transfer Characteristic](#voltage-transfer-characteristic-vtc)
-     - [Noise Margin Analysis](#noise-margin-analysis)
+     - [Voltage Transfer Characteristic](#1-voltage-transfer-characteristic-vtc)
+     - [Noise Margin Analysis](#2-noise-margin-analysis)
    - [Transient Analysis](#transient-analysis)
-     - [Delay Analysis](#delay-analysis)
-     - [Dynamic Power Analysis](#dynamic-power-analysis)
+     - [Delay Analysis](#1-delay-analysis)
+     - [Dynamic Power Analysis](#2-dynamic-power-analysis)
 7. [CMOS Inverter Layout](#cmos-inverter-layout)
 8. [Layout vs Schematic](#layout-vs-schematic-lvs)
 9. [About the Developer](#about-the-developer)
@@ -230,12 +230,14 @@ Below are the two netlists used for LVS verification:
 
 ---
 
-##  About the Developer
+## About the Developer
 
-Designed and verified by **Subramanian T H**  
-ECE – VLSI Design Enthusiast  
+**Subramanian T H**  
+Electronics and Communication Engineering  
+VLSI Design Enthusiast  
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/subramanian-t-h/
+LinkedIn: https://www.linkedin.com/in/subramanian-t-h/
+
 
 
 
