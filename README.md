@@ -67,24 +67,24 @@
   
   ---
 
-### CMOS Inverter Schematic
+## CMOS Inverter Schematic
 | Schematic |
 |-----------|
 | <img src="https://github.com/user-attachments/assets/221f3f4a-2f0d-42dc-91f1-87c84a7c4491" width="600"> |
 
-### CMOS Inverter Symbol
+## CMOS Inverter Symbol
 | Symbol |
 |--------|
 | <img src="https://github.com/user-attachments/assets/10d1a17c-4a0c-4e56-afc2-e4358b1b3e2c" width="400"> |
 
 
-### Testbench for DC and Transient Simulation
+## Testbench for DC and Transient Simulation
 | Testbench |
 |-----------|
 | <img src="https://github.com/user-attachments/assets/2216c5aa-a571-4fa1-87af-c1524d86eebc" width="600"> |
 
 ## Simulation Results
-  ### DC Transfer Characteristics
+  ## DC Transfer Characteristics
 ###  Voltage Transfer Characteristic (VTC)
 
 - The Voltage Transfer Characteristic (VTC) shows the relationship between the output voltage (Vout) and input voltage (Vin).
@@ -198,7 +198,7 @@ These timing parameters are measured from the transient output waveform using st
 
 ---
 
-### CMOS Inverter Layout
+## CMOS Inverter Layout
 
 - The inverter was implemented using Magic VLSI with SKY130 technology.  
 - Separate PMOS and NMOS transistors were placed in p-well and n-well regions, and metal routing was used to form the output node, VDD and GND connections.
