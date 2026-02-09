@@ -5,7 +5,7 @@
 
 ---
 
-## Contents
+## 📚Contents
 
 1. [Tools Used](#tools-used)
 2. [Methodology](#methodology)
@@ -14,9 +14,11 @@
 5. [Testbench for DC and Transient Simulation](#testbench-for-dc-and-transient-simulation)
 6. [Simulation Results](#simulation-results)
    - [DC Transfer Characteristics](#dc-transfer-characteristics)
-   - [Noise Margin Analysis](#noise-margin-analysis)
+     - [Voltage Transfer Characteristic (VTC)](#voltage-transfer-characteristic-vtc)
+     - [Noise Margin Analysis](#noise-margin-analysis)
    - [Transient Analysis](#transient-analysis)
-   - [Dynamic Power Analysis](#dynamic-power-analysis)
+     - [Delay Analysis](#delay-analysis)
+     - [Dynamic Power Analysis](#dynamic-power-analysis)
 7. [CMOS Inverter Layout](#cmos-inverter-layout)
 8. [Layout vs Schematic (LVS)](#layout-vs-schematic-lvs)
 9. [About the Developer](#about-the-developer)
@@ -82,7 +84,7 @@
 | <img src="https://github.com/user-attachments/assets/2216c5aa-a571-4fa1-87af-c1524d86eebc" width="600"> |
 
 ## Simulation Results
-  ###  DC Transfer Characteristics
+  ### DC Transfer Characteristics
 ###  Voltage Transfer Characteristic (VTC)
 
 - The Voltage Transfer Characteristic (VTC) shows the relationship between the output voltage (Vout) and input voltage (Vin).
