@@ -6,21 +6,22 @@
 ---
 ## 📚Contents
 
-1. Tools Used  
-2. Methodology  
-3. CMOS Inverter Schematic  
-4. CMOS Inverter Symbol  
-5. Testbench for DC and Transient Simulation  
-6. Simulation Results  
-   - DC Transfer Characteristics  
-     - Voltage Transfer Characteristic  
-     - Noise Margin Analysis  
-   - Transient Analysis  
-     - Delay Analysis  
-     - Dynamic Power Analysis  
-7. CMOS Inverter Layout  
-8. Layout vs Schematic  
-9. About the Developer
+1. [Tools Used](#tools-used)
+2. [Methodology](#methodology)
+3. [CMOS Inverter Schematic](#cmos-inverter-schematic)
+4. [CMOS Inverter Symbol](#cmos-inverter-symbol)
+5. [Testbench for DC and Transient Simulation](#testbench-for-dc-and-transient-simulation)
+6. [Simulation Results](#simulation-results)
+   - [DC Transfer Characteristics](#dc-transfer-characteristics)
+     - [Voltage Transfer Characteristic](#voltage-transfer-characteristic-vtc)
+     - [Noise Margin Analysis](#noise-margin-analysis)
+   - [Transient Analysis](#transient-analysis)
+     - [Delay Analysis](#delay-analysis)
+     - [Dynamic Power Analysis](#dynamic-power-analysis)
+7. [CMOS Inverter Layout](#cmos-inverter-layout)
+8. [Layout vs Schematic](#layout-vs-schematic-lvs)
+9. [About the Developer](#about-the-developer)
+
 ---
 
 ## 🛠 Tools Used
