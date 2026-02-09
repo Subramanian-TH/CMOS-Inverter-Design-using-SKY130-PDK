@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 ![Xschem](https://img.shields.io/badge/Schematic-Xschem-red)
 ![Ngspice](https://img.shields.io/badge/Simulation-Ngspice-orange)
 ![Magic](https://img.shields.io/badge/Layout-Magic-blue)
@@ -39,7 +39,7 @@
 
 ---
 
-## 🔁 Methodology
+##  Methodology
 1. 📐 **Schematic Design using Xschem**
    - CMOS inverter circuit drawn using SKY130 device models
    - Symbol created and testbench constructed from the schematic
@@ -66,24 +66,24 @@
   
   ---
 
-### 📐 CMOS Inverter Schematic 
+###  CMOS Inverter Schematic 
 | Schematic |
 |-----------|
 | <img src="https://github.com/user-attachments/assets/221f3f4a-2f0d-42dc-91f1-87c84a7c4491" width="600"> |
 
-### 🔣 CMOS Inverter Symbol 
+###  CMOS Inverter Symbol 
 | Symbol |
 |--------|
 | <img src="https://github.com/user-attachments/assets/10d1a17c-4a0c-4e56-afc2-e4358b1b3e2c" width="400"> |
 
 
-### 🧪 Testbench for DC & Transient Simulation
+### Testbench for DC & Transient Simulation
 | Testbench |
 |-----------|
 | <img src="https://github.com/user-attachments/assets/2216c5aa-a571-4fa1-87af-c1524d86eebc" width="600"> |
 
-  ## 📈 Simulation Results
-  ### 🔬 DC Transfer Characteristics
+  ##  Simulation Results
+  ###  DC Transfer Characteristics
 ###  1. Voltage Transfer Characteristic (VTC)
 
 - The Voltage Transfer Characteristic (VTC) shows the relationship between the output voltage (Vout) and input voltage (Vin).
@@ -127,7 +127,7 @@ These values are obtained by evaluating the slope of the VTC (gain = |dVout/dVin
 
 ---
 
-## ⚡ Transient Analysis
+##  Transient Analysis
 ### 1. Delay Analysis 
 
 Propagation delay describes how long the inverter output takes to respond to an input transition.
@@ -166,7 +166,7 @@ These timing parameters are measured from the transient output waveform using st
 
 ---
 
-### 2. 🔋Dynamic Power Analysis
+### 2. Dynamic Power Analysis
 - Dynamic power is consumed only during **output switching**, when the inverter output transitions between HIGH and LOW.
 - A load capacitance (CL) is connected at the inverter output node.
 - When **VIN is LOW**:
@@ -197,7 +197,7 @@ These timing parameters are measured from the transient output waveform using st
 
 ---
 
-### 🧱 CMOS Inverter Layout
+###  CMOS Inverter Layout
 
 - The inverter was implemented using Magic VLSI with SKY130 technology.  
 - Separate PMOS and NMOS transistors were placed in p-well and n-well regions, and metal routing was used to form the output node, VDD and GND connections.
@@ -209,7 +209,7 @@ These timing parameters are measured from the transient output waveform using st
   <img src="https://github.com/user-attachments/assets/67dc5268-d1cb-4733-ad39-37a0313dc677" width="650">
 </p>
 
-## 🔍 Layout vs Schematic (LVS)
+##  Layout vs Schematic (LVS)
 
 - LVS verification was performed using **Netgen** to ensure electrical equivalence between the schematic netlist generated from Xschem and the extracted netlist generated from Magic.
 
@@ -230,7 +230,7 @@ Below are the two netlists used for LVS verification:
 
 ---
 
-## 👤 About the Developer
+##  About the Developer
 
 Designed and verified by **Subramanian T H**  
 ECE – VLSI Design Enthusiast  
