@@ -4,6 +4,24 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
+## 📚Contents
+
+1. Tools Used  
+2. Methodology  
+3. CMOS Inverter Schematic  
+4. CMOS Inverter Symbol  
+5. Testbench for DC and Transient Simulation  
+6. Simulation Results  
+   - DC Transfer Characteristics  
+     - Voltage Transfer Characteristic  
+     - Noise Margin Analysis  
+   - Transient Analysis  
+     - Delay Analysis  
+     - Dynamic Power Analysis  
+7. CMOS Inverter Layout  
+8. Layout vs Schematic  
+9. About the Developer
+---
 
 ## 🛠 Tools Used
 ![Xschem](https://img.shields.io/badge/Schematic-Xschem-red)
